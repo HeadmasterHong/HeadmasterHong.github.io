@@ -28,9 +28,6 @@ url: ""
 github:
   username: HeadmasterHong # change to your github username
 
-twitter:
-  username: ryan_wshxz # change to your twitter username
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
@@ -38,7 +35,6 @@ social:
   email: 1015923045@qq.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/ryan_wshxz # change to your twitter homepage
     - https://github.com/HeadmasterHong # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
